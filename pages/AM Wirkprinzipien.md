@@ -20,10 +20,7 @@
 	- Welche Möglichkeiten bietet das Verfahren um die Effektivität des Wirkprinzips anzupassen
 - [[Konstruktive Hinweise in Bezug auf die Fertigung]]
 	- Hinweis: Neben den allgemein gültigen
-	  Konstruktionsregeln für die additive Fertigung wird für
-	  jedes Wirkprinzip spezifische Regeln, basierend auf
-	  physikalischen Randeffekten sog. Restriktionen,
-	  spezifische Konstruktionsregeln definiert.]
+	  Konstruktionsregeln für die additive Fertigung wird für jedes Wirkprinzip spezifische Regeln, basierend auf physikalischen Randeffekten sog. Restriktionen, spezifische Konstruktionsregeln definiert.
 - [[Allgemeine konstruktive Hinweise in Bezug auf die technische Umsetzbarkeit]]
 - [[Einsatzbereich]]
 - [[Genutzte Freiheiten der AM ]]
