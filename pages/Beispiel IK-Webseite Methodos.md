@@ -2,6 +2,7 @@
   collapsed:: true
 	- Das vom IK bereitgestellte interaktive Methodenlernportal Methodos bietet verschiedene Suchoptionen für Methoden unter Berücksichtigung diverser Randbedingungen sowie strukturierte Methodenbeschreibungen. Diese werden durch Hilfsmittel ergänzt, die eine direkte Methodenanwendung unterstützen sollen.
 - **Methode**
+  collapsed:: true
 	- [[Brainstorming]]
 		- #EntwickelnvonLösungsideen #ideenentwickeln #ideensammeln #innovationerhöhen
 	- [[Galeriemethode]]
@@ -28,10 +29,12 @@
 		- #AnalyseundZielvorgabe #ideenentwickeln  #lösungsprinzipienermitteln
 	- [[Moderationstechnik]]
 - **Methodenklasse** :
+  collapsed:: true
 	- #AnalyseundZielvorgabe
 	- #EntwickelnvonLösungsideen
 	- #BewertungsverfahrenundEntscheidungstechniken
 - **Ziel des Methodeneinsatzes**
+  collapsed:: true
 	- #ideenentwickeln
 	- #ideensammeln
 	- #innovationerhöhen
@@ -40,15 +43,17 @@
 	- #ähnlichkeitenermitteln
 	- #weitereziele
 - **Einführungsvideo**
-	- {{youtube(https://www.youtube.com/watch?v=WtRubK0YoyU&ab_channel=OneStutteringMind)}}
-	-
+  collapsed:: true
+	- {{youtube https://www.youtube.com/watch?v=WtRubK0YoyU&ab_channel=OneStutteringMind}}{{youtube(https://www.youtube.com/watch?v=WtRubK0YoyU&ab_channel=OneStutteringMind)}}
 - **Literaturen**
+  collapsed:: true
 	- Hier werden ein Paar Beispielliteraturen aufgelistet
 	- [[@Konstruieren mit Konstruktionskatalogen]]
 	- [[@Plasticity]]
 	- [[@Nichtlineare Finite-Elemente-Berechnungen]]
 -
 - Query-Funktion
+  collapsed:: true
 	- Methode 1
 		- Beispiel **Methodenklasse** :Entwickeln von Lösungen
 		- Beispiel **Ziel des Methodeneinsatzes**: Ideen entwickeln
